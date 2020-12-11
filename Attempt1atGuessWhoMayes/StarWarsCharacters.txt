@@ -1,0 +1,53 @@
+Name,Jedi,Droid,HumanLike,Wookie,DarkSide,LightSide,BountyHunter,Smuggler,0,Empire,Rebel,Resistance,FirstOrder,Separatist,GalacticRepublic,Ewok,Fluffy,Slimey,LightsaberColor,,Tall,Short,PilotAnnoying,Cute,BandersFav,GotButtWhooped,InsideATauntaun,StillLiving,LostALimb,SpaceBallsCharacter
+
+Admiral Ackbar,n,n,n,n,n,x,n,n,0,n,x,n,n,n,x,n,n,x,n,n,n,x,n,n,n,n,n,n,n,n
+Admiral Holdo,n,n,x,n,n,x,n,n,0,n,n,x,n,n,n,n,n,n,n,x,n,x,x,n,n,n,n,n,n,n
+Admiral Piett,n,n,x,n,x,n,n,n,0,x,n,n,n,n,x,n,n,n,n,n,n,x,n,n,n,n,n,n,n,x
+Ahsoka Tano,x,n,n,n,n,x,n,n,0,n,n,n,n,n,x,n,n,n,w,n,x,x,n,n,n,n,n,x,n,n
+BB-8,n,x,n,n,n,x,n,n,0,n,n,x,n,n,n,n,n,n,n,n,x,x,n,x,n,n,n,n,n,n
+Biggs Darklighter,n,n,x	n,n,x,n,n,0,n,x,n,n,n,n,n,n,n,n,n,n,x,n,n,n,n,n,n,n,n
+Boba Fett,n,n,x,n,n,n,x,n,0,n,n,n,n,n,n,n,n,n,n,n,n,x,n,n,x,n,n,x,n,n
+Bossk,n,n,n,n,n,n,x,n,0,n,n,n,n,n,n,n,n,n,n,n,n,x,n,n,n,n,n,n,n,n
+C-3PO,n,x,n,n,n,x,n,n,0,n,x,x,n,n,x,n,n,x,n,n,n,n,n,n,n,x,n,x,x,x
+Chewbacca,n,n,n,x,n,x,n,x,1,n,x,x,n,n,x,n,x,n,n,x,n,x,n,n,x,n,n,x,n,x
+Chirrut Imwe,n,n,x,n,n,x,n,n,0,n,x,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,x,n,n
+Count Dooku,x,n,x,n,x,n,n,n,0,n,n,n,n,x,n,n,n,n,r,n,n,x,n,n,n,x,n,n,n,n
+Darth Maul,n,n,x,n,x,n,n,n,0,n,n,n,n,x,n,n,n,n,r,n,n,x,n,n,x,n,n,n,n,n
+Darth Vader,n,x,x,n,x,n,n,n,0,x,n,n,n,n,n,n,n,n,r,x,n,x,n,n,x,x,n,n,n,x
+Dengar,n,n,x,n,n,n,x,n,0,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n
+Droideka,n,x,n,n,x,n,n,n,0,n,n,n,n,x,n,n,n,n,n,n,n,n,n,n,x,n,n,n,n,n
+Emperor Palpatine,n,x,x,n,x,x,n,n,0,x,n,n,n,x,x,n,n,n,r,n,n,n,n,n,x,n,n,x,n,x
+Enfys Nest,n,n,x,n,n,x,n,n,0,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n
+Ezra Bridger,x,n,x,n,n,x,n,n,0,n,x,n,n,n,n,n,n,n,g,n,x,x,x,n,n,n,n,n,n,n
+Finn,x,n,x,n,n,x,n,n,0,n,n,x,n,n,n,n,n,n,n,n,n,x,x,n,n,n,n,x,n,n
+General Grievous,n,x,x,n,x,n,n,n,0,n,n,n,n,x,n,n,n,n,gy,n,n,x,n,n,x,x,n,n,x,n
+Grand Moff Tarkin,n,n,x,n,x,n,n,n,0,x,n,n,n,n,x,n,n,n,n,n,n,x,n,n,n,n,n,n,n,n
+Greedo,n,n,n,n,n,n,x,n,0,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,x,n,n,n,n
+Han Solo,n,n,x,n,n,x,n,x,1,n,x,x,n,n,n,n,n,n,n,n,n,x,n,n,n,n,x,n,n,x
+IG-11,n,x,n,n,n,n,x,n,0,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n
+Jabba the Hut,n,n,n,n,n,n,x,n,0,n,n,n,n,n,n,n,n,x,n,n,x,n,n,x,n,x,n,n,n,x
+Jango Fett,n,n,x,n,n,n,x,n,0,n,n,n,n,x,n,n,n,n,n,n,n,x,n,n,x,n,n,n,x,n
+Jar Jar Binks,n,n,n,n,x,x,n,n,0,x,n,n,x,x,x,n,n,n,n,nn,n,x,x,n,n,n,x,n,n
+K2SO,n,x,n,n,n,x,n,n,0,n,x,n,n,n,n,n,n,n,n,n,n,x,n,n,n,n,n,n,n,n
+Ki-Adi-Mundi,x,n,n,n,n,x,n,n,0,n,n,n,n,n,x,n,x,n,b,n,n,n,n,n,n,n,n,n,n,n
+Kylo Ren,x,n,n,n,x,x,n,n,0,n,n,n,x,n,n,n,n,n,b,n,n,n,n,n,n,x,n,n,n,n
+Lando Calrissian,n,n,x,n,n,x,n,x,2,n,n,n,n,n,n,n,n,n,n,n,n,x,n,n,n,n,n,n,n,n
+Luke Skywalker,x,n,x,n,n,x,n,n,0,n,x,x,n,n,n,n,n,n,g,n,n,n,n,n,n,x,x,x,x,n
+Mace Windu,x,n,x,n,n,x,nn,0,n,n,n,n,n,x,n,n,n,p,n,n,n,n,n,x,x,n,x,x,n
+Mon Mothma,n,n,x,n,n,x,n,n,0,n,x,x,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n
+Nute Gunray,n,n,n,n,x,n,n,0,n,n,n,n,x,n,n,n,x,n,n,n,n,x,n,n,n,n,n,n,n
+Obi-Wan Kenobi,x,n,x,n,n,x,n,n,0,n,n,n,n,n,x,n,n,n,b,n,n,x,n,n,n,x,n,x,n,n
+Padme Amidala,n,n,x,n,n,x,n,n,0,n,n,n,n,n,x,n,n,n,n,n,n,x,x,n,n,x,n,n,n,n
+Plo Koon,x,n,n,n,n,x,n,n,0,n,n,n,n,n,x,n,n,n,b,n,n,x,n,n,n,n,n,n,n,n
+Poe Dameron,n,n,x,n,n,x,n,n,0,n,n,x,n,n,n,n,n,n,n,n,n,x,n,n,n,n,n,x,n,n
+Princess Leia,n,n,x,n,n,x,n,n,0,n,x,x,n,n,n,n,n,n,n,n,n,x,x,n,n,n,n,x,n,x
+Qira,n,n,x,n,n,n,n,x,1,n,n,n,n,n,n,n,n,n,nn,n,x,n,n,n,n,n,n,n,n
+Qui-Gon Jinn,x,n,x,n,x,x,n,n,0,n,n,n,n,n,n,n,n,n,g,n,n,x,n,n,x,x,n,n,n,n
+R2-D2,n,x,n,n,n,x,n,n,0,n,x,x,n,n,x,n,n,n,n,n,n,x,n,x,n,n,n,n,n,n
+Anakin Skywalker,x,n,x,n,n,x,n,n,0,n,n,n,n,n,x,n,n,x,b,n,n,x,x,n,n,x,n,x,x,n
+Rex,n,n,x,n,n,x,n,n,0,n,x,n,n,n,x,n,n,n,n,n,n,x,n,n,n,n,n,n,n,n
+Rey,x,n,x,n,x,x,n,n,0,n,n,x,n,n,n,n,n,n,y,n,n,x,x,n,x,x,n,x,n,n
+Wedge Antilles,n,n,x,n,n,x,n,n,0,n,x,n,n,n,n,n,n,n,n,n,n,x,n,n,n,n,n,n,n,n
+Wicket,n,n,n,n,n,x,n,n,0,n,x,n,n,n,n,x,x,n,n,n,x,n,n,n,x,n,n,n,n,n
+Yoda,x,n,n,n,n,x,n,n,0,n,x,n,n,n,n,n,n,x,g,n,x,n,n,n,x,x,n,x,n,x
+
